@@ -9,7 +9,7 @@
     Use long, strong and unique passwords, manage them in a secure password manager, enable
     2-factor authentication, keep on top of breaches and take care while logging into your accounts.
   checklist:
-  - point: Use a Strong Password
+  - point: Usa un Password Fuerte
     priority: Essential
     details: >-
       If your password is too short, or contains dictionary words, places or names- then it can be easily
